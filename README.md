@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Trường THPT Nguyễn Trãi](https://www.facebook.com/thptnguyentrai/)
 
-- 🌱 I’m currently learning java
+- 🌱 I'm currently learning web programming
 
 
 ## 📫 How to reach me:
