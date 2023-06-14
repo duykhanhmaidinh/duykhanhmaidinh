@@ -20,4 +20,7 @@
   <a href="https://www.instagram.com/?hl=vi" alt="instagram">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank" />
   </a> 
+ <a href="https://www.tiktok.com/@duykhanh3452" alt="tiktok">
+   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" alt="tiktok--v1"/>
+
 </p>
