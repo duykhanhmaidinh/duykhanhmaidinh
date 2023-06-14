@@ -21,6 +21,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank" />
   </a> 
  <a href="https://www.tiktok.com/@duykhanh3452" alt="tiktok">
- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB9ElEQVR4nO2ZPUscURSGHwkiKeLHJjH+A3+DiBhts6mSdDb+BSPYilnEL2StksY0SZrtAiEhxe7WaYKN/yCQSnEdsQl65MIsrJeZnTubu+y5y7zwNss9c87D5dw5dxYKFSrUq14CTeAKkAH7CmgA5bwQ2wqKlxRX8uyEKHfZBaSpoFDJcN0FJFJQqGT40gVEAnGmBl2gaAeZtvL8GhaQ/WEBmQX+hQjyNCHXboggTxJyPQBqwwBiNAKsA61QQB5n5B0HVoAj4FYzSAl33WgGmbLyrIUKUrLymHnpbdwjQe9IFP/+E3huAd0MCsScOIfAYseLz56iJ1NA2v4T3wJrg2r2zylHa16QvPYKstXlOXahE1pBvmQ8JwiQVsrs9Br4BpwkNOy4RpBqQtz7jBiVIMtWzCuHmEcaQWasmK+hgoxaMb8dYh5aMdcaQJ7l3JG/1vqJ/4QQXyBLOXvknbV+TgtINSHuQ8raH8CYtXZHC0gr5T3yBvgOnMbD4Gp8ne2UGR7PtIBIPGP1omMPEOITxHgzJ8SGJwjxDWL8qcuHhbbMpeqjRwjpB4jxBXAALHTcBE0vzAN7wLlnCOkXiG2Xi1EQIKIBJFJQpDgc/5lqKChUfPz1VlZQqGT4BY6qKChWHOc2p52pK+mZKK7FeScKFSrEPd0Bxx7VAwDpFdUAAAAASUVORK5CYII=">
+<img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/tiktok.png" alt="tiktok"/>
 
 </p>
