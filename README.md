@@ -21,6 +21,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank" />
   </a> 
  <a href="https://www.tiktok.com/@duykhanh3452" alt="tiktok">
-   <img src="https://img.icons8.com/fluent/48/000000/tiktok-new.png" target="_blank"/>
+   <a  href="https://icons8.com/icon/118638/tiktok">TikTok</a> icon by <a href="https://icons8.com">Icons8</a>
 
 </p>
